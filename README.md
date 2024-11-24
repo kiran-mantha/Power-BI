@@ -10,6 +10,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=iSdTQzuUJOA
 
+3 - Data Transformation
+
+    https://www.youtube.com/watch?v=cLyFlh3hi0I
+
 
 ---------------------------------------------------
 
