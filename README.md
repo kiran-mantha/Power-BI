@@ -14,6 +14,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=cLyFlh3hi0I
 
+4 - Append Data
+
+    https://www.youtube.com/watch?v=9I5MHJp6fWk
+
 
 ---------------------------------------------------
 
