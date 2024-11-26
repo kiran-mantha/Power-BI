@@ -18,6 +18,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=9I5MHJp6fWk
 
+5 - Creating Relationship
+
+    https://www.youtube.com/watch?v=R6tePDA-t4M
+
 
 ---------------------------------------------------
 
