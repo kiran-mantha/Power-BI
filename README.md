@@ -22,6 +22,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=R6tePDA-t4M
 
+6 - Page Formatting
+
+    https://www.youtube.com/watch?v=3HfREgriE9w
+
 
 ---------------------------------------------------
 
