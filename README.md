@@ -26,6 +26,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=3HfREgriE9w
 
+7 - Adding Visual Column Chart
+
+    https://www.youtube.com/watch?v=bTi8LIaaTpk
+
 
 ---------------------------------------------------
 
