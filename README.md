@@ -38,6 +38,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=hP9zo0wk8Gk
 
+10 - Formatting of Column and Bar Chart 3
+
+    https://www.youtube.com/watch?v=gvjJfZlE7DE
+
 
 ---------------------------------------------------
 
