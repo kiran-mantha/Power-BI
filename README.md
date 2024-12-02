@@ -42,6 +42,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=gvjJfZlE7DE
 
+11 - Power Query Transformation
+
+    https://www.youtube.com/watch?v=H6m7XzoSHTE
+
 
 ---------------------------------------------------
 
