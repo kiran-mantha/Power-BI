@@ -46,6 +46,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=H6m7XzoSHTE
 
+12 - Area and Line Chart Visual
+
+    https://www.youtube.com/watch?v=xkxBYOcbSXE
+
 
 ---------------------------------------------------
 
