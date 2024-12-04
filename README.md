@@ -50,6 +50,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=xkxBYOcbSXE
 
+13 - Formatting of Line and Area Chart
+
+    https://www.youtube.com/watch?v=Vd3tlXI-Qv0
+
 
 ---------------------------------------------------
 
