@@ -54,6 +54,18 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=Vd3tlXI-Qv0
 
+14 - Waterfall and Funnel Chart
+
+    https://www.youtube.com/watch?v=qVC2MgNxrHE
+
+15 - Scatter Chart, Pie Chart and Donut Chart
+
+    https://www.youtube.com/watch?v=0ufColx2qvg
+
+16 - Tree Map, Map and Filled Map Visuals
+
+    https://www.youtube.com/watch?v=x9dZL3mCcx8
+
 
 ---------------------------------------------------
 
