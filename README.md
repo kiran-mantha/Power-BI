@@ -78,6 +78,14 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=GskF_Ch6XEs
 
+20 - Slicer in Power BI
+
+    https://www.youtube.com/watch?v=xYfcGoXTHgY
+
+21 - New Slicer in Power BI
+
+    https://www.youtube.com/watch?v=uKXHFwp6VcE
+
 
 ---------------------------------------------------
 
