@@ -66,6 +66,18 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=x9dZL3mCcx8
 
+17 - Gauge Chart and KPI
+
+    https://www.youtube.com/watch?v=Q10C-q5FmKQ
+
+18 - Card and Multirow Card
+
+    https://www.youtube.com/watch?v=BgiSZg0TJXQ
+
+19 - New Card in Power BI
+
+    https://www.youtube.com/watch?v=GskF_Ch6XEs
+
 
 ---------------------------------------------------
 
