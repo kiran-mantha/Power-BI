@@ -86,6 +86,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=uKXHFwp6VcE
 
+22 - New Slicer with Images in Power BI
+
+    https://www.youtube.com/watch?v=aF4XJrLyr2w
+
 
 ---------------------------------------------------
 
