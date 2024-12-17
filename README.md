@@ -90,6 +90,14 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=aF4XJrLyr2w
 
+23 - Table and Matrix
+
+    https://www.youtube.com/watch?v=e14O6ul64QY
+
+24 - DAX Formula Sum and SumX
+
+    https://www.youtube.com/watch?v=VN5xxVg1Yw8
+
 
 ---------------------------------------------------
 
