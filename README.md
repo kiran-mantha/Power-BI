@@ -98,6 +98,14 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=VN5xxVg1Yw8
 
+25 - Calculated Columns Vs Measures
+
+    https://www.youtube.com/watch?v=jtf3AQvLZ_A
+
+26 - Date DAX Formulas
+
+    https://www.youtube.com/watch?v=q4WJSVAwASY
+
 
 ---------------------------------------------------
 
