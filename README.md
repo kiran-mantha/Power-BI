@@ -106,6 +106,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=q4WJSVAwASY
 
+27 - DAX Calculate Formula
+
+    https://www.youtube.com/watch?v=Chq7IsthK7Y
+
 
 ---------------------------------------------------
 
