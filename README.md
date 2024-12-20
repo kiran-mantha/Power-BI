@@ -114,6 +114,10 @@ Power BI 30 days course
 
     https://www.youtube.com/watch?v=8Knw7JeHUO4
 
+29 - MTD, QTD, YTD Dax Formulas
+
+    https://www.youtube.com/watch?v=adw5LsiG8z8
+
 
 ---------------------------------------------------
 
